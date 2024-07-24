@@ -55,21 +55,22 @@ This MERN stack application allows users to register with their personal informa
 - MongoDB
 
 ### Installation
-### For Backend
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/VrushabhVeer/MERN-Practical-Task.git
+
+### For Backend
    
-2. Navigate to the Backend directory:
+1. Navigate to the Backend directory:
    ```bash
    cd backend
    
-3. Install backend dependencies:
+2. Install backend dependencies:
    ```bash
    npm install
    
-4. Run the server:
+3. Run the server:
    ```bash
    npm start
 
