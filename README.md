@@ -1,4 +1,4 @@
-# MERN Stack User Management Application
+# MERN Registration API
 
 ## Description
 
