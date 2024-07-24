@@ -11,11 +11,11 @@ This MERN stack application allows users to register with their personal informa
 - **Endpoint**: `/user/register`
 - **Method**: POST
 - **Request Body**:
-  - `personName` (string) - Person's full name
+  - `name` (string) - Person's full name
   - `email` (string) - User's email address
   - `username` (string) - User's chosen username
-  - `contactInfo` (string) - Contact information
-  - `profilePicture` (file) - Profile picture (handled with Multer or similar library)
+  - `contact` (number) - Contact information
+  - `profilePhoto` (file) - Profile picture (handled with Multer or similar library)
 - **Functionality**: Validates input data and stores user information, including the profile picture, in a MongoDB database.
 
 ### 2. View Registration Data API
