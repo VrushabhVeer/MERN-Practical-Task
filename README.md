@@ -74,6 +74,11 @@ This MERN stack application allows users to register with their personal informa
    ```bash
    npm start
 
+4. Environmental Variables:
+   ```bash
+   MONGOURL = "mongodb+srv://vrushabhveer:vrushabhveer@cluster0.8mbinij.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+   PORT = 8000
+
 ### For Frontend
    
 1. Navigate to the frontend directory:
@@ -90,3 +95,9 @@ This MERN stack application allows users to register with their personal informa
 
 ### Testing
 Test the APIs using Postman or any other API testing tool by sending requests to the endpoints specified above.
+
+## Preview
+
+| Registration Page      | Users Page             |
+| ---------------------- | ---------------------- |
+| ![Screenshot_1](https://github.com/user-attachments/assets/22c1be1e-b991-4e35-a436-2b788d25d8c4) | ![Screenshot_2](https://github.com/user-attachments/assets/4efeb9f7-c76b-4436-95ef-43a893d510fb) |
